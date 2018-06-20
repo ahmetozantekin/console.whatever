@@ -1,0 +1,21 @@
+{
+  "name": "console-whatever",
+  "description": "fix typo for console fuckin log, lgo, olg, glo, lg... whatever",
+  "main": "console.whatever.js",
+  "authors": [
+    "Ahmet Ozan Tekin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
